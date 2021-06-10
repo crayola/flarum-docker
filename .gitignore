@@ -4,3 +4,4 @@ mysql/*
 *.js
 *.js.map
 rev-manifest.json
+extensions/.cache/*
