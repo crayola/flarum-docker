@@ -1,3 +1,6 @@
 mysql/*
 *.css
 *.zip
+*.js
+*.js.map
+rev-manifest.json
