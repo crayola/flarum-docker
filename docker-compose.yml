@@ -12,6 +12,7 @@ services:
     volumes:
       - ./assets:/flarum/app/public/assets
       - ./extensions:/flarum/app/extensions
+      - /etc/letsencrypt/:/etc/letsencrypt/
       - ./nginx:/etc/nginx/flarum
     ports:
       - 443:8888

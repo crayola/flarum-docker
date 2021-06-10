@@ -5,4 +5,5 @@ mysql/*
 *.js.map
 rev-manifest.json
 extensions/.cache/*
-flarum-image/flarum-rootfs/etc/nginx/certificates*/*
+certificates/*
+certificates.old/*
