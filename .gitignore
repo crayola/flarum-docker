@@ -5,6 +5,7 @@ mysql/*
 *.js.map
 *.png
 *.jpg
+assets/fonts/*
 rev-manifest.json
 extensions/.cache/*
 certificates/*
