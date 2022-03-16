@@ -3,6 +3,8 @@ mysql/*
 *.zip
 *.js
 *.js.map
+*.png
+*.jpg
 rev-manifest.json
 extensions/.cache/*
 certificates/*
