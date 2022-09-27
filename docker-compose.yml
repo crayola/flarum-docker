@@ -11,6 +11,7 @@ services:
       - ./flarum.env
     volumes:
       - ./assets:/flarum/app/public/assets
+      - ./assets/ub2:/flarum/app/public/ub2
       - ./extensions:/flarum/app/extensions
       - /etc/letsencrypt/:/etc/letsencrypt/
       - ./nginx:/etc/nginx/flarum
