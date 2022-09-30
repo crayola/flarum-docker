@@ -10,5 +10,8 @@ rev-manifest.json
 extensions/.cache/*
 certificates/*
 certificates.old/*
+
 *.log*
 nohup.*
+diary.md
+test.php
