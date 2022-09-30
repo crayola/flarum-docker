@@ -10,3 +10,5 @@ rev-manifest.json
 extensions/.cache/*
 certificates/*
 certificates.old/*
+*.log*
+nohup.*
